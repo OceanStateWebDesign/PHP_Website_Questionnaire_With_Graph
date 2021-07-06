@@ -1,0 +1,29 @@
+I have more then 50 employees in the office
+I have more then 50 computer workstations.
+I have more then 2 office locations.
+I have multple WAP's or in-house servers.
+My LAN has many moving parts.
+Theres no physical backup parts for computers.
+We have some kind of IT Admin which does Phsical hardware repairs.
+There has been hardware issues within the last 30 days.
+Office computers often glitch or have bugs.
+Printers have issues more then 2 times per month.
+We use Software currently, but are willing to switch.
+We do not use software at all for our buisness.
+We manage most things manually without the help of software or automation.
+Using Software is forign to me, but i'm willing.
+My company trains employees on how to use or software.
+We have custom built software, but its failing.
+We use a 3rd party for our software needs.
+I have a CMS
+I have a CRM
+I have a web app and use the data.
+There's many physical parts to my office(s) and employee production flow.
+1 full day of office downtime would kill my business.
+I do not have a full time IT tech.
+My IT Tech is not on-site
+We don't have a plan if physical IT stuff breaks.
+My office complains about tech issues.
+I could ues some enhanced Tech things around the office.
+I worry about my tech stuff and would love somebody to talk/consult with.
+
